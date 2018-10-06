@@ -1,4 +1,6 @@
-FloatingNotification [(Application Demo on Play Store)] (https://play.google.com/store/apps/details?id=fr.anthonyfernandez.floatingmenu)
+### FloatingNotification 
+
+[Application Demo on Play Store](https://play.google.com/store/apps/details?id=fr.anthonyfernandez.floatingmenu)
 ====================
 
 Floating Notification for Android app - Facebook ChatHeads Notification system
