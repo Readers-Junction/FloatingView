@@ -47,7 +47,7 @@ If you wanna have a floating window, you can use PopupWindow :
 			pwindo.showAsDropDown(chatHead, 50, -30);
 ```
 
-[Floating1](http://185.14.185.122/github/float1.png)
-[Floating1](http://185.14.185.122/github/float3.png)
-[Floating2](http://185.14.185.122/github/float2.png)
+![Floating1](http://185.14.185.122/github/float1.png)
+![Floating1](http://185.14.185.122/github/float3.png)
+![Floating2](http://185.14.185.122/github/float2.png)
 
